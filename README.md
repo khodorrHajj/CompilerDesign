@@ -1,5 +1,7 @@
 # Compiler Workbench
 
+# Project by @giokhadra and @khodorrhajj
+
 ## Overview
 
 Compiler Workbench is a desktop Qt application for exploring core compiler construction topics in one integrated interface. It combines finite automata design, lexical analysis, parsing, semantic analysis, and basic target-code generation in a single workbench-style application.
